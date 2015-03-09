@@ -188,3 +188,33 @@ div.desc {
     -o-transform: scale(2);
     transform: scale(2);
 }
+
+/*Video*/
+
+.vid1 {
+  length: 40%;
+  height: 100%;
+  postion: absolute;
+  margin-left: 5%;
+  float: left;
+  background-color: red;
+}
+
+.vidtitle1 {
+  font-size: 36px;
+  color: black;
+}
+
+.vid2 {
+  length: 40%;
+  height: 100%;
+  postion: absolute;
+  float: right;
+  margin-right: 5%;
+  background-color: red;
+}
+
+.vidtitle2 {
+  font-size: 36px;
+  color: black;
+}
